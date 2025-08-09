@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "title": "🎬 Entertainment & Video",
+      "links": [
+        { "name": "Bilibili", "url": "https://bilibili.com" },
+        { "name": "YouTube", "url": "https://youtube.com" },
+        { "name": "Netflix", "url": "https://netflix.com/browse" }
+      ]
+    },
+    {
+      "title": "🛒 Shopping", 
+      "links": [
+        { "name": "Apotea", "url": "https://apotea.se" },
+        { "name": "Amazon Sweden", "url": "https://amazon.se" },
+        { "name": "Webhallen", "url": "https://webhallen.com" },
+        { "name": "Elgiganten", "url": "https://elgiganten.se" },
+        { "name": "IKEA Sweden", "url": "https://ikea.se" }
+      ]
+    },
+    {
+      "title": "📚 Study & School",
+      "links": [
+        { "name": "SGS Mina Sidor", "url": "https://minasidor.sgs.se" },
+        { "name": "Chalmers Canvas", "url": "https://canvas.chalmers.se" },
+        { "name": "TimeEdit - Chalmers", "url": "https://cloud.timeedit.net/chalmers/web/student/" },
+        { "name": "Udemy", "url": "https://udemy.com" }
+      ]
+    },
+    {
+      "title": "💻 Development & Tools",
+      "links": [
+        { "name": "Overleaf", "url": "https://overleaf.com" },
+        { "name": "GitHub", "url": "https://github.com" },
+        { "name": "LeetCode", "url": "https://leetcode.cn" }
+      ]
+    },
+    {
+      "title": "🚗 Public Services",
+      "links": [
+        { "name": "Transportstyrelsen", "url": "https://transportstyrelsen.se" }
+      ]
+    },
+    {
+      "title": "🤖 AI Assistants",
+      "links": [
+        { "name": "ChatGPT", "url": "https://chat.openai.com" },
+        { "name": "Claude", "url": "https://claude.ai" }
+      ]
+    }
+  ]
+}
