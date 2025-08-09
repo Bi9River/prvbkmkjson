@@ -23,7 +23,7 @@
       "links": [
         { "name": "SGS Mina Sidor", "url": "https://minasidor.sgs.se" },
         { "name": "Chalmers Canvas", "url": "https://canvas.chalmers.se" },
-        { "name": "Ladok", "url": "https://www.student.ladok.se/student/app/studentwebb/start" },
+        { "name": "Ladok", "url": "https://www.student.ladok.se/student/" },
         { "name": "TimeEdit - Chalmers", "url": "https://cloud.timeedit.net/chalmers/web/student/" },
         { "name": "Udemy", "url": "https://udemy.com" }
       ]
