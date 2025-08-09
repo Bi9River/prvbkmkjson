@@ -9,16 +9,6 @@
       ]
     },
     {
-      "title": "🛒 Shopping", 
-      "links": [
-        { "name": "Apotea", "url": "https://apotea.se" },
-        { "name": "Amazon Sweden", "url": "https://amazon.se" },
-        { "name": "Webhallen", "url": "https://webhallen.com" },
-        { "name": "Elgiganten", "url": "https://elgiganten.se" },
-        { "name": "IKEA Sweden", "url": "https://ikea.se" }
-      ]
-    },
-    {
       "title": "📚 Study & School",
       "links": [
         { "name": "Overleaf", "url": "https://overleaf.com" },
@@ -36,6 +26,16 @@
         { "name": "C++ Core Guidelines", "url": "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines"},
         { "name": "cppcon", "url": "https://youtube.com/cppcon"},
         { "name": "LeetCode", "url": "https://leetcode.cn" }
+      ]
+    },
+    {
+      "title": "🛒 Shopping", 
+      "links": [
+        { "name": "Apotea", "url": "https://apotea.se" },
+        { "name": "Amazon Sweden", "url": "https://amazon.se" },
+        { "name": "Webhallen", "url": "https://webhallen.com" },
+        { "name": "Elgiganten", "url": "https://elgiganten.se" },
+        { "name": "IKEA Sweden", "url": "https://ikea.se" }
       ]
     },
     {
