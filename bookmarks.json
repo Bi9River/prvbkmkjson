@@ -21,6 +21,7 @@
     {
       "title": "📚 Study & School",
       "links": [
+        { "name": "Overleaf", "url": "https://overleaf.com" },
         { "name": "SGS Mina Sidor", "url": "https://minasidor.sgs.se" },
         { "name": "Chalmers Canvas", "url": "https://canvas.chalmers.se" },
         { "name": "Ladok", "url": "https://www.student.ladok.se/student/" },
@@ -31,8 +32,9 @@
     {
       "title": "💻 Development & Tools",
       "links": [
-        { "name": "Overleaf", "url": "https://overleaf.com" },
         { "name": "GitHub", "url": "https://github.com" },
+        { "name": "C++ Core Guidelines", "url": "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines"},
+        { "name": "cppcon", "url": "https://youtube.com/cppcon"},
         { "name": "LeetCode", "url": "https://leetcode.cn" }
       ]
     },
